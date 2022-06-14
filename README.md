@@ -1,2 +1,3 @@
 # learn-shell
-learn-shell scriptiing
+# learn-shell scriptiing
+# Easy to Learn Scripting
